@@ -1,0 +1,55 @@
+img{
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: darkred;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+}
+.box4{
+    width: 250px;
+    height: 250px;
+    background-color: orchid;
+}
+.box5{
+    width: 300;
+    height: 300;
+    background-color: peachpuff;
+}
+
+.cm1{
+    width: 200px;
+    height: 300px;
+    padding: 25px;
+    background-color: rgb(82, 49, 7);
+}
+.j{
+    
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.cm1pic{
+    width: 175px;
+    height: 125px;
+    padding: 10px;
+    background-color: antiquewhite;
+}
+.cm1info{
+    width: 175px;
+    height: 130px;
+    padding: 10px;
+    background-color: antiquewhite;
+}

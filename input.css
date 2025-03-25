@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.display
+{
+    width: 1200px;
+    height: 100vh;
+    background-color: antiquewhite;
+    background-image: url(pngtree-pastelgreen.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+.info
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    margin-top: 15px;
+}
+.extra
+{
+    margin-left: 100px;
+}
+input
+{
+    width: 250px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 2px;
+    transition: 0.5s;
+}
+.content
+{
+   
+    width: 110%;
+    height: 50%;
+    display: flex;
+}
+
+textarea
+{
+    border-radius: 10px;
+    width: 1000px;
+    height: 100%;
+    transition: 0.5s;
+   
+}
+button
+{
+    border-radius: 10px;
+    transition: 0.5s;
+    width: 60px;
+    height: 30px; 
+    margin: 5px; 
+}
+button:hover
+{
+    background-color:White ;
+    -webkit-text-fill-color: yellowgreen  ;
+    border-radius: 0px;
+}
+input:hover
+{
+    border-color: black ;
+    -webkit-text-fill-color: yellowgreen; 
+    border-radius: 0px;
+}
+.file
+{
+    -webkit-text-fill-color: black;
+    text-shadow: white 5;
+}
+.file:hover
+{
+    -webkit-text-fill-color: white;
+} 

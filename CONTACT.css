@@ -1,0 +1,122 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.section1
+{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 400px;
+    background-color: antiquewhite ;
+    background: radial-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4));
+    background-image: url("Switzerland.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    font-size: 15px;
+    color: rgb(254, 255, 255);
+    background-color: rgb(244, 121, 146);
+    transition: 0.5s;
+}
+button:hover
+{
+   background-color: rgb(255, 227, 232);
+   color: rgb(0, 0, 0);
+   border: none;
+}
+h1
+{
+    font-size: 75px;
+}
+a
+{
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+.section2
+{
+    width: 100%;
+    height: 300px;
+    background-color: antiquewhite ;
+    text-align: center;
+    padding-top: 50px ;
+}
+
+.Welcome
+{
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+}
+.menu
+{
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+}
+button
+{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    font-size: 15px;
+}
+.map
+{
+    width: 100%;
+    height: 900px;
+    background-color: antiquewhite;
+}
+iframe
+{
+    width: 100%;
+    height: 900px;
+}
+.section3
+{
+    background-color: antiquewhite ;
+    justify-items: center;
+    width: 100%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-auto-rows: 350px;
+    gap: 5px    ;
+    font-size: x-large;
+}
+input
+{
+    
+    background-color: transparent;
+    border-style: none ;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    height: 100px; font-size: x-large;
+}
+
+textarea
+{
+    border-style: none ;
+    width: 500px;
+    height: 200px;font-size: x-large;
+}
+.add
+{
+    color: rgb(19, 167, 252);
+    text-decoration: none;
+    margin-right: 10px;
+}

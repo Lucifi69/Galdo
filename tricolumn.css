@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.MainContainer{
+    margin: 0 auto;
+    width: 1000px;
+    height: 100vh;
+    border: solid 0.5px black;
+    display: flex;
+    gap: auto;
+}
+.container1{
+    gap: 5px;
+    padding-top: 150px;
+    width: 333px;
+    height: 100%;
+   
+   
+}
+.BOX1{
+    width: 323px;
+    height: 33%;
+    
+    
+}
+.b11{
+    width: 100%;
+    height: 50%;
+    
+}
+
+.b12{
+
+    width: 100%;
+    height: 50%;
+    
+}
+.BOX2{
+    width: 323px;
+    height: 33%;
+    
+}
+.b21{
+    width: 100%;
+    height: 50%;
+   
+    
+}
+
+.b22{
+
+    width: 100%;
+    height: 50%;
+  
+}
+.container2{
+    padding: auto;
+    gap: 5px;
+    width: 333px;
+    height: 100%;
+}
+.BOX3{
+    width: 323px;
+    height: 33%;
+    
+}
+.b31{
+    width: 100%;
+    height: 50%;
+    
+   
+}
+
+.b32{
+
+    width: 100%;
+    height: 50%;
+    
+}
+.BOX4{
+    width: 323px;
+    height: 33%;
+    
+}
+.b41{
+    width: 100%;
+    height: 50%;
+    
+
+}
+
+.b42{
+ 
+    width: 100%;
+    height: 50%;
+    ;
+}
+.BOX5{
+    width: 323px;
+    height: 33%;
+    
+}
+.b51{
+    width: 100%;
+    height: 50%;
+    
+}
+
+.b52{
+
+    width: 100%;
+    height: 50%;
+    
+}
+.container3{
+    gap: 5px;
+    padding-top: 150px;
+    width: 333px;
+    height: 100%;
+   
+   
+}
+.BOX6{
+    width: 323px;
+    height: 33%;
+   
+}
+.b61{
+    width: 100%;
+    height: 50%;
+    
+}
+
+.b62{
+    
+    width: 100%;
+    height: 50%;
+    
+}
+.BOX7{
+    width: 323px;
+    height: 33%;
+    
+    
+}
+.b71{
+    width: 100%;
+    height: 50%;
+   
+}
+
+.b72{
+    
+    width: 100%;
+    height: 50%;
+    
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
