@@ -57,9 +57,7 @@ i
     grid-template-columns: repeat(2,1fr);
     grid-auto-rows: 345px;
 }
-.h1{
-    font-size: 100px;
-}
+
 img{
     width: 100%;
     height: 100%;
