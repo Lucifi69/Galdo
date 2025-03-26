@@ -1,0 +1,130 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+.section1
+{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(221, 109, 255) ;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    font-size: 15px;
+    color: rgb(254, 255, 255);
+    background-color: rgb(244, 121, 146);
+    transition: 0.5s;
+}
+button:hover
+{
+   background-color: rgb(255, 227, 232);
+   color: rgb(0, 0, 0);
+   border: none;
+}
+a
+{
+    color: aliceblue;
+    text-decoration: none;
+    margin-right: 10px;
+    
+}
+i
+{
+    size: xx-large;
+    color: aliceblue;
+}
+.section2
+{
+    width: 100%;
+    height: 500px;
+    background-color: antiquewhite ;
+    text-align: center;
+    padding-top: 50px ;
+}
+img
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+
+}
+.Welcome
+{
+    width: 400px;
+    height: 150px;
+    margin: 0 auto;
+}
+.menu
+{
+    width: 400px;
+    height: 50px;
+    margin: 0 auto;
+}
+button
+{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    font-size: 15px;
+}
+.map
+{
+    width: 100%;
+    height: 900px;
+    background-color: antiquewhite;
+}
+iframe
+{
+    width: 100%;
+    height: 900px;
+}
+.section3
+{
+    background-color: antiquewhite ;
+    justify-items: center;
+    width: 100%;
+    height: 300px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-auto-rows: 350px;
+    font-size: x-large;
+}
+input
+{
+    
+    background-color: transparent;
+    border-style: none ;
+    border-bottom: 1px solid grey;
+    width: 500px;
+    height: 100px; font-size: x-large;
+}
+.section4
+{
+    background-color: antiquewhite ;
+    text-align: center;
+    width: 100%;
+    height: 400px;
+    
+}
+textarea
+{
+    border-style: none ;
+    width: 85%;
+    height: 300px;font-size: x-large;
+}
+.add
+{
+    color: rgb(19, 167, 252);
+    text-decoration: none;
+    margin-right: 10px;
+}
